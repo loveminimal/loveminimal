@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌞 **多少事，从来急；天地转，光阴迫。一万年太久，只争朝夕。 -- 教员**
+
+<!-- ![Jack's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveminimal&layout=compact&hide_border=true&langs_count=10) -->
+
+<!-- [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveminimal)](https://github.com/anuraghazra/github-readme-stats) -->
