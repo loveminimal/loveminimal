@@ -1,6 +1,6 @@
-### Hi there 👋
+### Less is more 🌞
 
-<!--
+<!--👋
 **loveminimal/loveminimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+多少事，从来急；天地转，光阴迫。一万年太久，只争朝夕。 -- 教员
